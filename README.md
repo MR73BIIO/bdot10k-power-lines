@@ -1,5 +1,7 @@
 # bdot10k-power-lines
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24408612.svg)](https://doi.org/10.5281/zenodo.24408612)
+
 How many kilometres of overhead power lines are there in Poland, per voivodeship and per county?
 One Python script, open data from GUGiK (BDOT10k), no API keys.
 
@@ -54,5 +56,7 @@ per plot, with a resume cache.
 
 ## Author
 
-Marcin Ruszczak · MR73BIIO
+Marcin Ruszczak · MR73BIIO · ORCID [0009-0004-0170-4277](https://orcid.org/0009-0004-0170-4277)
+
+To cite: Ruszczak, M. (2026). bdot10k-power-lines v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24408612
 Polish · German · Russian · English
