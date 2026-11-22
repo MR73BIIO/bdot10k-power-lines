@@ -20,6 +20,12 @@ That is roughly the size of Luxembourg.
 Density of MV lines per voivodeship: [results/wojewodztwa.csv](results/wojewodztwa.csv).
 Per county: [results/powiaty.csv](results/powiaty.csv). Chart: [results/linie_sn_wojewodztwa.png](results/linie_sn_wojewodztwa.png).
 
+## Value of landowners' claims (November 2026)
+
+Model estimate for MV overhead lines: about 21 bn PLN potential, about 6.3 bn PLN expected value,
+compared with about 830 m PLN of provisions that operators report in their 2025 financial statements.
+Method, calibration, sources and limits: [results/mv_claims_value_2026-11.md](results/mv_claims_value_2026-11.md).
+
 ## Data
 
 Two national GeoParquet files from opendata.geoportal.gov.pl (GUGiK):
