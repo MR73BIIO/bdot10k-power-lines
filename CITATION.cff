@@ -5,7 +5,7 @@ authors:
   - family-names: Ruszczak
     given-names: Marcin
     orcid: "https://orcid.org/0009-0004-0170-4277"
-version: v1.1.0
+version: v1.1.1
 doi: 10.5281/zenodo.24408612
 date-released: 2026-11-22
 repository-code: "https://github.com/MR73BIIO/bdot10k-power-lines"

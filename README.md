@@ -26,6 +26,10 @@ Model estimate for MV overhead lines: about 21 bn PLN potential, about 6.3 bn PL
 compared with about 830 m PLN of provisions that operators report in their 2025 financial statements.
 Method, calibration, sources and limits: [results/mv_claims_value_2026-11.md](results/mv_claims_value_2026-11.md).
 
+![MV lines over Poland and value of claims per km² of municipality](results/mv_map.png)
+
+![From potential to provisions](results/mv_funnel.png)
+
 ## Data
 
 Two national GeoParquet files from opendata.geoportal.gov.pl (GUGiK):
